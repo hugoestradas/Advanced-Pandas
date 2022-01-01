@@ -12,5 +12,3 @@ Here I show you one of my favorites tweaks for Pandas when dealing with larga da
 Part 3 - advanced-calculations
 
 As its name suggests, more advanced features for data engineering/analytics using Pandas.
-
-Part 2 -
